@@ -15,7 +15,7 @@ You can also play on your own, controlling both the white and the black pieces y
 
 ## How to use
 
-- To start the program, run the chess.py file in the folder Chess2025. Alternatively, if you do not have the requirements installed, you can run the chess.exe file in the same folder. Note that the PNG files have to be in the same directory as the EXE file.
+- To start the program, run the chess.py file in the folder Chess2025.
 - Use the mouse click to select a game mode.
 - To make a move, first click on the piece that you want to move. After the piece is highlighted in yellow, click on a square where you would like to move the piece. If you want to change the highlighted piece, click on the piece again or on any square where the highlighted piece cannot move.
 - To castle, first click on your king to highlight it, and then click two squares to either side of the king.
